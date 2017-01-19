@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloSumAIDL</string>
+    <string name="hello">Hello Sum AIDL</string>
+    <string name="result">Result</string>
+
+    <string name="plus">+</string>
+    <string name="equal">=</string>
+
+    <string name="hint1">Value 1</string>
+    <string name="hint2">Value 2</string>
+</resources>
